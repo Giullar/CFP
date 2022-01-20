@@ -1,5 +1,7 @@
 # CFP
-Compilatore dal linguaggio funzionale probabilistico al linguaggio Problog
+Compilatore dal linguaggio funzionale probabilistico al linguaggio Problog.
+Questo progetto è collegato alla mia tesi di laurea triennale consultabile al seguente indirizzo:
+https://amslaurea.unibo.it/16726/
 
 
 
